@@ -89,7 +89,7 @@ endmodule
 
 ```
 ## Logic symbol & Truthtable
-```
+
 ![GITHUB LOGO](logic.jpg)
 ![GITHUB LOGO](e.png)
 ## RTL realization 
